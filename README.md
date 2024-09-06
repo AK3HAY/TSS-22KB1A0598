@@ -1,3 +1,11 @@
+**Name:** M. Akshay  
+
+**Company:** Tech Sign Solutions
+
+**Duration:** 19 August to 06 September 2024  
+
+**Mentor:** Satya and Anvesh
+
 **Tic Tac Toe Game**
 =====================
 
@@ -50,7 +58,3 @@ The game is played on a 3x3 grid, where two players, X and O, take turns marking
 
 This game is licensed under the MIT License. See `LICENSE` for details.
 
-**Author**
--------
-
-[Your Name]
